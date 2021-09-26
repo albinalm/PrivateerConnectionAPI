@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=40c7096d-3f85-4675-9933-31e6465cb135;IngestionEndpoint=https://westeurope-5.in.applicationinsights.azure.com/",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "40c7096d-3f85-4675-9933-31e6465cb135",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=storageaccountpgbsnb258;AccountKey=gKHlriQ0/zxOPrz2+J/TphVfBMaCQ/9F+IZhSM0kykXr0wfC0rfwDtzSIca0dGpaBSzzj53qoGmfR7TTAKd7qg==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "privateerconnectionapib8df",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "WEBSITE_SITE_NAME": "PrivateerConnectionAPI",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccountpgbsnb258;AccountKey=gKHlriQ0/zxOPrz2+J/TphVfBMaCQ/9F+IZhSM0kykXr0wfC0rfwDtzSIca0dGpaBSzzj53qoGmfR7TTAKd7qg==;EndpointSuffix=core.windows.net"
+  }
+}
