@@ -8,6 +8,7 @@ using Newtonsoft.Json;
 public static async Task<IActionResult> Run(HttpRequest req, ILogger log)
 {
     //Added data via GitHub editor to verify CI Pipeline
+    //Added data via Visual Studio to verify CI Pipeline
     log.LogInformation("C# HTTP trigger function processed a request.");
 
     string name = req.Query["name"];
